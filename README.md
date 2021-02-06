@@ -1,4 +1,17 @@
-# 数値誤差を考慮して学習するCNN
-An Image Classification Model that Learns MNIST Image Features and Numerical Information
+# 数値誤差を考慮して学習するNN
+## 学会発表：
 
-Yuta Suzuki(鈴木　悠太) Toshiki Hatano(波多野　利樹) Toi Tsuneda and Satoshi Yamane(山根　智)
+- 学会 : 
+    
+    IEEE CANDAR2020
+- タイトル : 
+  
+    "An Image Classification Model that Learns MNIST Image Features and Numerical Information"
+- 著者 :
+  
+    Yuta Suzuki, Toshiki Hatano, Toi Tsuneda and Satoshi Yamane
+- 発表資料 :
+    
+    [発表スライド](https://www.slideshare.net/YutaSuzuki27/an-image-classification-model-that-learns-mnist-image-features-and-numerical-informationcandar2020)
+
+    [発表動画](https://www.youtube.com/watch?v=BlK5-uTymzk&t=3s)
